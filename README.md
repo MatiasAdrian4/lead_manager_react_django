@@ -25,7 +25,7 @@ python leadmanager/manage.py migrate
 python leadmanager/manage.py runserver
 ```
 
-## Architecture Design:
+## Architecture Design
 	|-> leadmanager
 		|-> leadmanager (Django Project Core)
 		|-> leads (Django App - Backend)
