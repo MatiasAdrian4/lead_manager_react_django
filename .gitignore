@@ -1,0 +1,6 @@
+.vscode/
+Pipfile
+Pipfile.lock
+node_modules/
+leadmanager/frontend/static/frontend/main.js
+leadmanager/db.sqlite3
