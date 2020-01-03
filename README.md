@@ -2,7 +2,7 @@
 
 ## Introduction
 
-"Traversy Media" Youtube Channel Tutorial
+[Traversy Media](https://www.youtube.com/watch?v=Uyei2iDA4Hs&list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60) Youtube Channel Tutorial
 
 ## Installation
 
@@ -20,8 +20,10 @@ npm run dev
 ```
 
 #### Build and Run Backend
+```bash
 python leadmanager/manage.py migrate
 python leadmanager/manage.py runserver
+```
 
 ## Architecture Design:
 	|-> leadmanager
